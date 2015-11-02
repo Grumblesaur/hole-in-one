@@ -1,3 +1,7 @@
+"""Remove numbers from a list that aren't at least as large as the max
+   of the numbers before them.
+"""
+
 def d(l):
 	j=b=0;m=l[j];r=[]
 	for i in l:
