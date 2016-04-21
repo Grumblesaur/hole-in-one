@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """Remove numbers from a list that aren't at least as large as the max
    of the numbers before them.
 """
